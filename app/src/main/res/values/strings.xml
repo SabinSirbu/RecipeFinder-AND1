@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">RecipeFinder</string>
+    <string name="logo_description">Logo</string>
+
+    <!-- Toolbar -->
+
+    <string name="action_favourite">Favourite recipes</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Drawer menu -->
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string name="profile_image_description">Profile image</string>
+    <string name="nav_header_title">User</string>
+    <string name="nav_header_subtitle">Email</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_recipes">Recipes</string>
+    <string name="menu_login">Login</string>
+    <string name="menu_share_recipe">Share recipe</string>
+
+    <!-- Floating action button -->
+
+    <string name="fab_add_recipe_description">Add recipe</string>
+
+    <!-- RecipePageActivity page -->
+
+    <string name="recipe_title">Lasagna</string>
+    <string name="recipe_instructions">This classic lasagna is made with an easy meat sauce as the base. Layer the sauce with noodles and cheese, then bake until bubbly! This is great for feeding a big family, and freezes well, too.</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="fab_content_description">Star FAB</string>
+    <string name="discard">Discard</string>
+    <string name="upload">Upload</string>
+    <string name="portion_amount">4 portions</string>
+    <string name="portions">Portions</string>
+    <string name="time">Time to make</string>
+    <string name="time_to_prepare">1h</string>
+    <string name="title_activity_add_recipe">Add recipe</string>
+
+    <!-- Add Recipe page -->
+
+    <string name="recipe_title_input">Recipe title</string>
+    <string name="recipe_title_label">Recipe title</string>
+    <string name="recipe_instructions_placeholder">Write your recipe here</string>
+    <string name="discard_input">Discard</string>
+    <string name="upload_recipe">Upload</string>
+    <string name="portion_amount_input">No. of portions</string>
+    <string name="portions_label">Portions</string>
+    <string name="time_label">Time to make</string>
+    <string name="time_to_prepare_input">Prep. time</string>
+    <string name="title_activity_recipe">Recipe name</string>
+
+    <!-- LoginActivity page -->
+
+    <string name="username">Username</string>
+    <string name="username_value">username</string>
+    <string name="username_hint">Input your username</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Input your password</string>
+    <string name="login_btn">Login</string>
+    <string name="register">Register</string>
+    <string name="title_activity_login">Login name</string>
+
+</resources>

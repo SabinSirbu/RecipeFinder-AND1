@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_home"/>
+
+        <item
+            android:id="@+id/nav_recipes"
+            android:icon="@drawable/ic_menu_recipes"
+            android:title="@string/menu_recipes"/>
+
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_menu_login"
+            android:title="@string/menu_login"/>
+
+    </group>
+
+    <item android:title="Share with the others">
+
+        <menu>
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share_recipe"
+                android:title="@string/menu_share_recipe" />
+
+        </menu>
+
+    </item>
+
+</menu>

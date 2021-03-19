@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".View.MainActivity"
+    android:background="#FF9800">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="40dp"
+        android:paddingTop="40dp"
+        android:paddingLeft="10dp"
+        android:layout_margin="10dp"
+        android:text="TextView"
+        android:background="#2196F3"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="40dp"
+        android:paddingTop="40dp"
+        android:paddingLeft="10dp"
+        android:layout_margin="10dp"
+        android:text="TextView"
+        android:background="#2196F3"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="40dp"
+        android:paddingTop="40dp"
+        android:paddingLeft="10dp"
+        android:layout_margin="10dp"
+        android:text="TextView"
+        android:background="#2196F3"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="40dp"
+        android:paddingTop="40dp"
+        android:paddingLeft="10dp"
+        android:layout_margin="10dp"
+        android:text="TextView"
+        android:background="#2196F3"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="40dp"
+        android:paddingTop="40dp"
+        android:paddingLeft="10dp"
+        android:layout_margin="10dp"
+        android:text="TextView"
+        android:background="#2196F3"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="40dp"
+        android:paddingTop="40dp"
+        android:paddingLeft="10dp"
+        android:layout_margin="10dp"
+        android:text="TextView"
+        android:background="#2196F3"/>
+
+
+</LinearLayout>

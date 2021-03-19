@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/recipe_list_bg"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/recipe_name"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:fontFamily="sans-serif-condensed"
+        android:text="Carbonara"
+        android:textAlignment="textStart"
+        android:textSize="36sp" />
+
+    <ImageView
+        android:id="@+id/recipe_photo"
+        android:layout_width="211dp"
+        android:layout_height="184dp"
+        android:src="@drawable/carbonara" />
+
+</LinearLayout>
