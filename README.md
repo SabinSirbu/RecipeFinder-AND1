@@ -10,14 +10,14 @@ RecipeFinder Description
 RecipeFinder MoSCow Requirements
 
   1.	Must have
-    a.	The user must be able to see a list of recipes.
-    b.	The user must be able to view a recipe from the list.
+      a.	The user must be able to see a list of recipes.
+      b.	The user must be able to view a recipe from the list.
   2.	Should have
-    a.	The user should be able to search for a recipe.
-    b.	The user should be able to add, edit, and delete a recipe.
-    c.	The should be able create an account, login, edit its details.
+      a.	The user should be able to search for a recipe.
+      b.	The user should be able to add, edit, and delete a recipe.
+      c.	The should be able create an account, login, edit its details.
   3.	Could have
-    a.	The user could be able to have a favorite recipe list.
-    b.	The user could add recipes to its favorite recipe list.
+      a.	The user could be able to have a favorite recipe list.
+      b.	The user could add recipes to its favorite recipe list.
   4.	Will Not have
-    a.	The user will not be able to filter the recipes by required ingredients.
+      a.	The user will not be able to filter the recipes by required ingredients.
